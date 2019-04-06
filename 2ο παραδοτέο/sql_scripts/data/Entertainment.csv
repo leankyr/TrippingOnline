@@ -1,0 +1,9 @@
+Name,Address,Phone,Website,Type,EntertainmentID,DestinationID
+"Ereipio","Agiou Dimitriou 34",2314102241,"ereipiobar.gr","Bar",1,1
+"Markiz","Navarchou Kountouriotou 6",2310145921,"markizzz.com","Club",2,1
+"Rover Bar","Salaminos 6",2310450692,"roverbar.gr","Rock Bar",3,1
+"Daphne's","Lisikratous 4",2101234567,NULL,"Restaurant",4,2
+"Pixi Club","Evmolpidon 11",2101436597,"pixiyolo.gr","Club",5,2
+"City Space Bar","Kosmodamianskaya Nab 52",4952215357,"cityspacebar.ru","Disco",6,6
+"Sangria Grille","2124 W Pullman Rd","2088822693","ilovesangria.com","Wine Bar",7,6
+"Chang Sing Restaurant","512 S Lyapunov St",4856611344,NULL,"Chinese Restaurant",8,6

@@ -1,0 +1,12 @@
+DestinationID,ID,Name,Address,Stars,Breakfast,Aircondition,Price
+1,1,"Daios Luxury Living Hotel","Nikis Ave 59",5,1,1,123
+1,2,"Electra Palace Hotel Thessaloniki","Aristotelous 9",5,1,1,130
+1,3,"ABC Hotel","Aggelaki 41",3,1,0,60
+2,4,"Central Hotel","Apollonos 21",4,1,1,77
+2,5,"Hotel Melia Athens","Chalkokondili 14",3,0,0,84
+3,6,"Hotel Des Archives Paris","87 Rue des Archives",3,0,1,150
+5,7,"Pension Kreuzberg","Großbeerenstrasse 64",4,1,1,127
+5,8,"Waldorf Astoria Berlin","Hardenbergstrasse 28",5,1,1,188
+7,9,"Melal Apartment Hotel","Shahid Naseri 24",4,1,1,110
+8,10,"The Maritime Hotel","363 West 16th St",4,1,1,266
+10,11,"The Plaza Hotel","768 5th Ave, Dallas,",5,1,1,342

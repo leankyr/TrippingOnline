@@ -1,0 +1,11 @@
+Name,DestinationID,ID,Address,Organized,Pet_Tolerance,Price
+"Camping Nopigia",9,1,"Platanias 730 06",1,0,10
+"Camping Mithimna",9,2,"Minoa Pediada 734 00",1,1,12
+"Camping Athina",2,3,"Athinon Ave 198-200",1,0,9
+"Camping Dionisiotis",2,4,"Par. A/D PATHE, Athina 145 64",1,1,10
+"Camping Indigo Paris",3,5,"2 Allée du Bord de l'Eau",1,0,107
+"Huttopia Versailles",3,6,"31 Rue Berthelot,",0,1,0
+"Campingplatz am Mahlower See bei Berlin",5,7,"Teltower Str. 34, 15831 Blankenfelde-Mahlow",1,1,26
+"Hettler",5,8,"Bäkehang 9A, 14532 Kleinmachnow",0,1,0
+"Sanssouci",5,9,"An der Pirschheide 41, 14471 Potsdam",0,1,0
+"REI",10,10,"5929 E Northwest Hwy, Dallas, TX 75231",1,0,47

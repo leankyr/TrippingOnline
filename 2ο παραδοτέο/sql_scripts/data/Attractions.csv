@@ -1,0 +1,12 @@
+Name,Address,OpeningTime,ClosingTime,Ticket,DestinationID
+"Eiffel Tower","Champ de Mars, 5 Avenue Anatole France",08:15:00,23:00:00,20,3
+"Notre Dame de Paris","6 Parvis Notre-Dame - Pl. Jean-Paul II",08:00:00,20:00:00,15,3
+"Arc de Triomphe","Place Charles de Gaulle", , ,0,3
+"Arch of Galerius","Egnatia 144", , ,0,1
+"Hagios Demetrios","Agiou Dimitriou 96",07:00:00,18:00:00,0,1
+"Parthenon","Plaka ,Athens",09:00:00,17:00:00,10,2
+"National Archaeological Museum","28is Oktovriou 44",09:00:00,17:00:00,12,2
+"Berlin Wall","Berlin", , ,0,5
+"Brandenburg Gate","Pariser Platz", , ,0,5
+"Kremlin","Red Square",10:00:00,17:00:00,30,6
+"National Museum of Iran","30th Tir St",08:00:00,18:30:00,14,7
